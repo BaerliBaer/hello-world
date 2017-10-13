@@ -2,4 +2,4 @@
 
 Hey there!!
 
-I am learnign how to use gitHub. YAY!
+I am learning how to use gitHub. YAY!
